@@ -15,5 +15,5 @@
 - **Project 2**: SQL analytics project — *Coming soon*
 
 ## 📫 Contact
-- 📧 Email: <your email>
-- LinkedIn: <your LinkedIn URL>
+- 📧 Email: keshavsarmoria772@gmail.com
+- LinkedIn: https://www.linkedin.com/in/keshav-sarmoria-60587a2ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brr1L3ZcuSC2eLBLo8UE2BA%3D%3D
